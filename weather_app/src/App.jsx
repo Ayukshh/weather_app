@@ -4,7 +4,7 @@ import React, { useState } from "react";
 const API_KEY = "";
 
 const cities = [
-  { name: "New York", id: "5128581" },
+  { name: "New York", id: "5128581" },       //foreign cities bevause their codes are easily availabele and fast
   { name: "London", id: "2643743" },
   { name: "Tokyo", id: "1850147" },
   { name: "Paris", id: "2988507" },
